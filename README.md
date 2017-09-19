@@ -10,14 +10,14 @@ Data Dictionary
 
 
 Field| # of Missings | # of Non-Missing Values | Total Records
----|---|---|
+---|---|---
 Airfield |                             0 | 9984687 | 9984687
 S2     |                               0 | 9984687 | 9984687
 Wait_Time  |                     4534097 | 5450590 | 9984687
 C_Start     |                    5396421 | 4588266 | 9984687
 C0           |                   1192532 | 8792155 | 9984687
-C_avg         |                  5396421 | 4588266 |9984687
-Sch_Departure  |                  192231 | 9792456 |9984687
+C_avg         |                  5396421 | 4588266 | 9984687
+Sch_Departure  |                  192231 | 9792456 | 9984687
 Act_Departure   |                 192231 | 9792456 |9984687
 BFO_Dest_City    |                125571 | 9859116 |9984687
 BFO_Destination_Country_Code |    125571 | 9859116 |9984687
