@@ -4,11 +4,16 @@ Data Dictionary
 ---
 1. load sas7bdat dataset into pandas dataframe: pd.read_sas()
 
-2. cast S2, Wait_Time to datetime variable at minute
+2. find out how many missing values in each field
 
-Airfield                              0
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
-S2                                    0
+Airfield |                             0
+---|---
+S2     |                               0
 
 Wait_Time                       4534097
 
