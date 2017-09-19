@@ -10,7 +10,7 @@ Data Dictionary
 
 
 Field| # of Missings | # of Non-Missing Values | Total Records
----|---|---
+---|---|---|---
 Airfield |                             0 | 9984687 | 9984687
 S2     |                               0 | 9984687 | 9984687
 Wait_Time  |                     4534097 | 5450590 | 9984687
