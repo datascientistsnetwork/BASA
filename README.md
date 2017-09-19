@@ -7,7 +7,8 @@ Data Dictionary
 2. find out how many missing values in each field
 
 
-
+Field| # of Missings
+---|---
 Airfield |                             0
 S2     |                               0
 Wait_Time  |                     4534097
