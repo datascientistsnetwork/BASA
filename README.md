@@ -9,7 +9,6 @@ Data Dictionary
 
 
 Airfield |                             0
----|---
 S2     |                               0
 Wait_Time  |                     4534097
 C_Start     |                    5396421
@@ -30,4 +29,4 @@ Month                     |            0
 Season                     |           0
 Year                        |     192231
 
-dtype: int64
+
