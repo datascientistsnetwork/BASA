@@ -14,9 +14,7 @@ Markdown | Less | Pretty
 Airfield |                             0
 ---|---
 S2     |                               0
-
 Wait_Time  |                     4534097
-
 C_Start     |                    5396421
 
 C0           |                   1192532
